@@ -2,6 +2,8 @@
 #Following instructions by
 #Machine Learning A-Z™ course on Udemy
 #
+#Using dataset Data.csv
+#
 #Ana Arsovska 2018
 
 #Importing libraries:
